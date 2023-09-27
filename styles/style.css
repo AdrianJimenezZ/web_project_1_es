@@ -138,7 +138,6 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-  /*flex-wrap: wrap;*/
   justify-content: center;
   flex-direction: column;
 }
@@ -150,15 +149,19 @@
   width: 60%;
   display: flex;
   justify-content: center;
+  margin: 0 auto;
+  padding-bottom: 20px;
+ 
 }
 
 .section-subtitle {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin-top: 20px;
   display: flex;
   justify-content: center;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .table {
@@ -169,6 +172,7 @@
   list-style: none;
   margin: 0 auto;
   justify-content: space-between;
+  margin-top: 60px;
 
 }
 
