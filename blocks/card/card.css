@@ -1,0 +1,8 @@
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  column-gap: 100px;
+  margin: 0 auto;
+  width: 920px;
+}

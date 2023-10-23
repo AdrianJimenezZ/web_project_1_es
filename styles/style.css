@@ -55,13 +55,13 @@
   z-index: 1;
 }
 
-.logo {
+.header__logo {
   width: 154px;
   height: 31px;
   z-index: 5;
 }
 
-.logo_place_header {
+.header__logo-place {
   height: 31px;
   width: 154px;
   position: absolute;
@@ -70,7 +70,6 @@
   z-index: 1;
 }
 
-/* here we have two examples of selectors in order to remind you how to set styles for elements */
 .header__square {
   height: 568px;
   width: 568px;
@@ -349,7 +348,7 @@
 
 }
 
-.table__cell {
+.digits__table-cell {
   width: 250px;
   flex-direction: column;
   row-gap: 20px;
@@ -357,14 +356,14 @@
 
 }
 
-.table__heading {
+.digits__table-heading {
   line-height: 1.5;
   font-size: 24px;
   margin: 0;
 
 }
 
-.table__text {
+.digits__table-text {
   margin: 0;
   line-height: 1.2;
   font-size: 18px;

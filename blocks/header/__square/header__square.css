@@ -1,0 +1,22 @@
+@keyframes rotacion {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.header__square {
+  height: 568px;
+  width: 568px;
+  background-color: #2F80ED;
+  position: absolute;
+  top: 64px;
+  right: 0;
+  z-index: 0;
+  overflow: hidden;
+  transform: rotate(-15deg);
+  display: flex;
+  animation: rotacion 20s linear infinite;
+}
