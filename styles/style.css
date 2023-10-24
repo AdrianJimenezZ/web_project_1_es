@@ -571,12 +571,12 @@
   flex-wrap: wrap;
 }
 
-.resources__logo-zone__item {
+.resources__item {
   width: 270px;
   height: 38px;
 }
 
-.resources__logo-zone__image {
+.resources__image {
   width: 100%;
 }
 
