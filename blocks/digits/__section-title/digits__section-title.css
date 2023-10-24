@@ -1,0 +1,7 @@
+.digits__section-title {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}

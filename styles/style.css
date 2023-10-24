@@ -159,7 +159,7 @@
   font-weight: normal;
 }
 
-.section-title__cards {
+.cards__section-title {
   width: 60%;
   display: flex;
   justify-content: center;
@@ -168,7 +168,7 @@
   padding-top: 100px;
 }
 
-.section-subtitle__cards {
+.cards__section-subtitle {
   display: flex;
   justify-content: center;
   width: 60%;
@@ -225,7 +225,7 @@
   padding-top: 100px;
 }
 
-.section-title__video {
+.video__section-title {
   width: 60%;
   display: flex;
   justify-content: center;
@@ -233,7 +233,7 @@
   padding-bottom: 20px;
 }
 
-.section-subtitle__video {
+.video__section-subtitle {
   display: flex;
   justify-content: center;
   width: 60%;
@@ -321,7 +321,7 @@
   flex-direction: column;
 }
 
-.section-title__digits {
+.digits__section-title {
   width: 60%;
   display: flex;
   justify-content: center;
@@ -330,7 +330,7 @@
  
 }
 
-.section-subtitle__digits {
+.digits__section-subtitle {
   display: flex;
   justify-content: center;
   width: 60%;
@@ -463,7 +463,7 @@
   animation: rotacion 20s linear infinite;
 }
 
-.section-title__theme-dark {
+.kaufman__section-title {
   display: flex;
   color:white;
   width:80%;
@@ -472,7 +472,7 @@
   z-index: 2;
 }
 
-.section-subtitle__theme-dark {
+.kaufman__section-subtitle {
   color: white;
   width:60%;
   margin: auto;
@@ -490,7 +490,7 @@
   margin-top: 60px;
 }
 
-.table__theme-dark {
+.kaufman__table {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
@@ -508,7 +508,7 @@
   display: flex;
 }
 
-.table__cell_theme_dark {
+.kaufman__table_cell {
   width: 200px;
   color: white;
   margin-right: 0;
@@ -521,7 +521,7 @@
   margin: 0;
 }
 
-.table__heading_theme_dark {
+.kaufman__table__heading {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
@@ -536,7 +536,7 @@
   font-size: 18px;
 }
 
-.table__text_theme_dark {
+.kaufman__table__text {
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
@@ -550,14 +550,14 @@
   flex-direction: column;
 }
 
-.section-title__resources {
+.resources__section-title {
   width: 60%;
   margin: 100px 0 20px;
   display: flex;
   justify-content: center;
 }
 
-.section-subtitle__resources {
+.resources__section-subtitle {
   width: 60%;
   margin: 0 0 80px;
   display: flex;
