@@ -508,7 +508,7 @@
   display: flex;
 }
 
-.kaufman__table_cell {
+.kaufman__table-cell {
   width: 200px;
   color: white;
   margin-right: 0;
@@ -521,7 +521,7 @@
   margin: 0;
 }
 
-.kaufman__table__heading {
+.kaufman__table-heading {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
@@ -536,7 +536,7 @@
   font-size: 18px;
 }
 
-.kaufman__table__text {
+.kaufman__table-text {
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
