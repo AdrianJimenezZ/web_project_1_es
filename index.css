@@ -1,3 +1,4 @@
+@import url(./styles/normalize.css);
 @import url(./blocks/page/page.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__title/header__title.css);
@@ -13,11 +14,11 @@
 @import url(./blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(./blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(./blocks/two-columns/__span-accent/two-columns__span-accent.css);
-@import url(./blocks/cards/cards.css);
+@import url(./blocks/techniques/techniques.css);
 @import url(./blocks/section-title/section-title.css);
 @import url(./blocks/section-subtitle/section-subtitle.css);
-@import url(./blocks/cards/__section-title/cards__section-title.css);
-@import url(./blocks/cards/__section-subtitle/cards__section-subtitle.css);
+@import url(./blocks/techniques/__section-title/techniques__section-title.css);
+@import url(./blocks/techniques/__section-subtitle/techniques__section-subtitle.css);
 @import url(./blocks/card/card.css);
 @import url(./blocks/card/__item/card__item.css);
 @import url(./blocks/card/__image/card__image.css);
@@ -40,6 +41,7 @@
 @import url(./blocks/digits/__table-cell/digits__table-cell.css);
 @import url(./blocks/digits/__table-heading/digits__table-heading.css);
 @import url(./blocks/digits/__table-text/digits__table-text.css);
+@import url(./blocks/khan/khan.css);
 @import url(./blocks/khan/__container/khan__container.css);
 @import url(./blocks/khan/__author/khan__author.css);
 @import url(./blocks/khan/__title/khan__title.css);
@@ -75,5 +77,7 @@
 @import url(./blocks/footer/__author/footer__author.css);
 @import url(./blocks/footer/__colum-heading/footer__colum-heading.css);
 @import url(./blocks/footer/__text/footer__text.css);
+@import url(./blocks/footer/__link/footer__link.css);
 @import url(./blocks/footer/__text-footer__list/footer__text-footer__list.css);
 @import url(./blocks/footer/__column/footer__column.css);
+@import url(./blocks/footer/__column-content-social/footer__column-content-social.css);

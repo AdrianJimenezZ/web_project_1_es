@@ -1,5 +1,4 @@
-.cards {
+.techniques {
   display: flex;
   flex-wrap: wrap;
-  padding-top: 100px;
 }
