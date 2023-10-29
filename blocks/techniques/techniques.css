@@ -1,4 +1,5 @@
 .techniques {
   display: flex;
   flex-wrap: wrap;
+  padding: 100px 0 0;
 }
